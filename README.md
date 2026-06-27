@@ -1,2 +1,42 @@
-# 5b97c31d-event-planning-production-di
-Tired of sifting through generic directories to find reliable event production vendors? This plugin turns your WordPress site into a specialized directory for lighting, sound, staging, and more.  Stop wasting hours vetting unqualified vendors. Our plugin gives you a dedicated platform to list and discover event production specialists—from AV techs
+# Event Planning & Production Directory and Listings WordPress Plugin
+
+> Plugin for Event Planning
+
+Tired of sifting through generic directories to find reliable event production vendors? This plugin turns your WordPress site into a specialized directory for lighting, sound, staging, and more.
+
+Stop wasting hours vetting unqualified vendors.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/00wfZhaDd6AkaNO47qcZs1N)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
